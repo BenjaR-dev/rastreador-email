@@ -1,4 +1,4 @@
-#Es una herramienta para rastrear personas atravez de email
+Es una herramienta para rastrear personas atravez de email
  ##  cosas necesarias:
  ###  cuenta de ngrok
  ###  una cuenta de email de protonmail
